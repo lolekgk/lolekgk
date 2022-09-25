@@ -40,13 +40,13 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  <img align="left" alt="lolekgk's GitHub Stats" width="48%" src="https://streak-stats.demolab.com?user=lolekgk&theme=dark&hide_border=true" />
-  <img align="left" alt="lolekgk's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=lolekgk&show_icons=true&hide_border=true&title_color=FB8C00&icon_color=FB8C00&bg_color=151515&text_color=ffffff" />
+  <img align="left" alt="lolekgk's GitHub Stats" width="45%" src="https://streak-stats.demolab.com?user=lolekgk&theme=dark&hide_border=true" />
+  <img align="left" alt="lolekgk's GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=lolekgk&show_icons=true&hide_border=true&title_color=FB8C00&icon_color=FB8C00&bg_color=151515&text_color=ffffff" />
 </details>
 
 <details>
   <summary>:zap: Codewars Stats</summary>
-  <img align="left" alt="lolekgk's Codewars Stats" width="48%" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=lolekgk&card&customcolor=bg:151515&colormode=dark_mode" />
+  <img align="left" alt="lolekgk's Codewars Stats" width="45%" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=lolekgk&card&customcolor=bg:151515&colormode=dark_mode" />
 </details>
 
 
