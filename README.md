@@ -22,7 +22,7 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://iterm2.com/#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://iterm2.com/#gh-dark-mode-only)
 [<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-light.svg" />](https://en.wikipedia.org/wiki/MacOS/#gh-light-mode-only)
 [<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-dark.svg" />](https://en.wikipedia.org/wiki/MacOS/#gh-dark-mode-only)
