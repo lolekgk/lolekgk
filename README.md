@@ -4,7 +4,7 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 
 <br/>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning: **Docker** and **mongoDB**
 - 🥅 2022 Goals: Learn fastAPI and Django frameworks
 - ⚡ Fun fact: I usually start counting from 0     
 
@@ -13,20 +13,20 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 ### Languages and Tools:
 
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][linkedin]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />][linkedin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-light-mode-only)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Pytest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />][pytest]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][code]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgres]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-dark-mode-only)
-[<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-light.svg" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-light-mode-only)
-[<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-dark.svg" />](https://www.linkedin.com/in/karol-gajda-ba04931a3/#gh-dark-mode-only)
-[<img align="left" alt="MacOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][linkedin]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://iterm2.com/#gh-dark-mode-only)
+[<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-light.svg" />](https://en.wikipedia.org/wiki/MacOS/#gh-light-mode-only)
+[<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-dark.svg" />](https://en.wikipedia.org/wiki/MacOS/#gh-dark-mode-only)
+[<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][trello]
           
 <br />
 
@@ -53,3 +53,12 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 
 [linkedin]: https://www.linkedin.com/in/karol-gajda-ba04931a3/
 [Gmail]: mailto:karol.gajda97@gmail.com
+[python]: https://www.python.org/
+[code]: https://code.visualstudio.com/
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[postgres]: https://www.postgresql.org/
+[git]: https://git-scm.com/
+[pytest]: https://docs.pytest.org/en/7.1.x/
+[trello]: https://trello.com/en
+
