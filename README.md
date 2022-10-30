@@ -4,7 +4,7 @@ I'm an Applied Informatics student with a big dream of becoming a Python Develop
 
 <br/>
 
-- 🌱 I’m currently learning: **Docker** and **mongoDB**
+- 🌱 I’m currently learning: **fastAPI* and **mongoDB**
 - 🥅 2022 Goals: Learn fastAPI and Django frameworks
 - ⚡ Fun fact: I usually start counting from 0     
 
