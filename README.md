@@ -4,7 +4,7 @@ As an Python Developer, I am a motivated individual who is passionate about deve
 
 <br/>
 
-- 🌱 I’m currently working on social app API project
+- 🌱 I’m currently working on social events API project
 - 🥅 2023 Goals: Learn more about fastAPI, Django and DRF
 - ⚡ Fun fact: I usually start counting from 0     
 
