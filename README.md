@@ -1,11 +1,11 @@
 # Hi there, I'm Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm an Applied Informatics student with a big dream of becoming a Python Developer. I've got interested in an IT sector during my Bachelor's studies (Automation and Robotics), where I learned some about C, matlab, labview and PLC programming. Unfortunatly Automation and Robotics was more about modeling electric engines, etc. and because of that I didn't have much time to learn other stuff. I had to focus on passing all the exams. After finishing those studies and gaining some work experience in Automotive sector I decided to leave it all behind and to continue learning programming on my own. The choice fell on Python language which became my love at first sight.
+As an Python Developer, I am a motivated individual who is passionate about developing innovative solutions to complex problems. I possess strong knowledge of Python programming language and am adept at using various tools and frameworks to build efficient and effective software applications. With a detail-oriented approach, I am committed to delivering high-quality code that meets project requirements and exceeds expectations. I am a fast learner, always seeking new challenges and opportunities to expand my skill set. I am eager to leverage my technical expertise and collaborate with a team to create exceptional software solutions.
 
 <br/>
 
-- 🌱 I’m currently learning: **fastAPI** and **mongoDB**
-- 🥅 2022 Goals: Learn fastAPI and Django frameworks
+- 🌱 I’m currently working on social app API project
+- 🥅 2023 Goals: Learn more about fastAPI, Django and DRF
 - ⚡ Fun fact: I usually start counting from 0     
 
 ---
