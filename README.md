@@ -47,18 +47,23 @@ As an Python Developer, I am a motivated individual who is passionate about deve
 
 <details>
   <summary>:zap: Codewars Stats</summary>
-  <img align="left" alt="lolekgk's Codewars Stats" width="47%" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=lolekgk&card&customcolor=bg:151515&colormode=dark_mode" />
+  <img align="left" alt="lolekgk's Codewars Stats" width="47%" src="https://github.r2v.ch/codewars?user=lolekgk" />
 </details>
+
+<!-- <details>
+  <summary>:zap: Codewars Stats</summary>
+  <img align="left" alt="lolekgk's Codewars Stats" width="47%" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=lolekgk&card&customcolor=bg:151515&colormode=dark_mode" />
+</details> -->
 
 
 [linkedin]: https://www.linkedin.com/in/karol-gajda-ba04931a3/
 [Gmail]: mailto:karol.gajda97@gmail.com
 [python]: https://www.python.org/
 [code]: https://code.visualstudio.com/
-[html]: https://en.wikipedia.org/wiki/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [postgres]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [pytest]: https://docs.pytest.org/en/7.1.x/
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [trello]: https://trello.com/en
 
