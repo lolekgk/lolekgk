@@ -1,4 +1,4 @@
-# Hi there, I'm Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img align="right" src="https://komarev.com/ghpvc/?username=lolekgky&label=Profile%20views&color=32b40e&style=plastic" alt="lolekgk" />
+# Hi there, I'm Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img align="right" src="https://komarev.com/ghpvc/?username=lolekgky&label=Profile%20views&color=yellow&style=flat-square" alt="lolekgk" />
 
 
 As an Python Developer, I am a motivated individual who is passionate about developing innovative solutions to complex problems. I possess strong knowledge of Python programming language and am adept at using various tools and frameworks to build efficient and effective software applications. With a detail-oriented approach, I am committed to delivering high-quality code that meets project requirements and exceeds expectations. I am a fast learner, always seeking new challenges and opportunities to expand my skill set. I am eager to leverage my technical expertise and collaborate with a team to create exceptional software solutions.
