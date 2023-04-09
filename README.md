@@ -6,7 +6,7 @@ As an Python Developer, I am a motivated individual who is passionate about deve
 <br/>
 
 - 🌱 I’m currently working on social events API project
-- 🥅 2023 Goals: Learn more about fastAPI, Django and DRF
+- 🥅 2023 Goals: continue gaining knowledge about Django and fastAPI frameworks
 - ⚡ Fun fact: I usually start counting from 0     
 
 ---
@@ -15,14 +15,18 @@ As an Python Developer, I am a motivated individual who is passionate about deve
 
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />][django]
+[<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />][fastapi]
 [<img align="left" alt="Pytest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />][pytest]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][code]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgres]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgres]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/#gh-light-mode-only)
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][gitlab]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][code]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://iterm2.com/#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://iterm2.com/#gh-dark-mode-only)
 [<img align="left" alt="MacOS" width="26px" src="./img/mac-logo-light.svg" />](https://en.wikipedia.org/wiki/MacOS/#gh-light-mode-only)
@@ -51,18 +55,18 @@ As an Python Developer, I am a motivated individual who is passionate about deve
   <img align="left" alt="lolekgk's Codewars Stats" width="47%" src="https://github.r2v.ch/codewars?user=lolekgk" />
 </details>
 
-<!-- <details>
-  <summary>:zap: Codewars Stats</summary>
-  <img align="left" alt="lolekgk's Codewars Stats" width="47%" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=lolekgk&card&customcolor=bg:151515&colormode=dark_mode" />
-</details> -->
-
 
 [linkedin]: https://www.linkedin.com/in/karol-gajda-ba04931a3/
 [Gmail]: mailto:karol.gajda97@gmail.com
 [python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
+[fastapi]: https://fastapi.tiangolo.com/
 [code]: https://code.visualstudio.com/
 [postgres]: https://www.postgresql.org/
+[docker]: https://www.docker.com/
 [git]: https://git-scm.com/
+[gitlab]: https://about.gitlab.com/
+[github]: https://google.com/
 [pytest]: https://docs.pytest.org/en/7.1.x/
 [html]: https://en.wikipedia.org/wiki/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
