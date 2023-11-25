@@ -2,12 +2,7 @@
 
 
 As an Python Developer, I am a motivated individual who is passionate about developing innovative solutions to complex problems. I possess strong knowledge of Python programming language and am adept at using various tools and frameworks to build efficient and effective software applications. With a detail-oriented approach, I am committed to delivering high-quality code that meets project requirements and exceeds expectations. I am a fast learner, always seeking new challenges and opportunities to expand my skill set. I am eager to leverage my technical expertise and collaborate with a team to create exceptional software solutions.
-
-<br/>
-
-- 🌱 I’m currently working on social events API project
-- 🥅 2023 Goals: continue gaining knowledge about Django and fastAPI frameworks
-- ⚡ Fun fact: I usually start counting from 0     
+  
 
 ---
 
